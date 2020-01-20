@@ -1,0 +1,6 @@
+fun main(args: Array<String>) {
+   var cat = 5
+while(cat>0){ 
+    println(cat) 
+    cat--}
+}
