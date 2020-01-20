@@ -1,0 +1,7 @@
+     #!/usr/bin/perl 
+     # Now I will teach you "while" statements 
+     $answer = 10; 
+     while ($answer != 20) { 
+       print "You are in loop no: $answer:\n"; 
+       $answer++; 
+     }
