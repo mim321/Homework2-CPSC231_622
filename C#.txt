@@ -1,0 +1,14 @@
+using System;
+
+class ForLoop
+{
+    static void Main(string[] args)
+    {
+        int i = 1;
+        for (; i <= 10; )
+        {
+            Console.WriteLine(i);
+            i++;
+        }
+    }
+}
